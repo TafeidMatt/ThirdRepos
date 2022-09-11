@@ -2,7 +2,7 @@ namespace MyNameSpace
 {
     partial class SummaryForm
     {
-        /// <summary>
+        /// <summary> Back Stall. The price is 15.0m.  e.g.
         /// Required designer variable.
         /// </summary>
         private System.ComponentModel.IContainer components = null;
