@@ -11,7 +11,7 @@ namespace MyNameSpace
 {
     public partial class JuiceBarForm : Form
     {
-        // Declare class variables.
+        // Declare class variables. . Child below 12 has a discount 10m
         decimal itemSizeDecimal, itemPriceDecimal, totalOrderDecimal, 
             totalSalesDecimal;
         int drinkTotalInteger, orderTotalInteger, itemCountInteger;
